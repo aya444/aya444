@@ -5,18 +5,24 @@
 <h3 align="left">About me:</h3>
 - 🎓 Software Engineering Graduate (July 2023) <br>
 - 👨‍💻 Currently a Software Tester  <br>
-- 🌱 Learning Full-Stack Development <br>
-- 🏹 Archery enthusiast | 📚 Avid reader
+- 🌱 Working in enhancing my skills in microservices, Spring Boot, and database management   <br>
+- 🏹 Archery enthusiast | 📚 Avid reader and continuous learner
 
 <h3 align="left">Current Project:</h3>
 
-- **Full-Stack CRUD App**
-  - A comprehensive application built using Spring Boot, Maven, PostgreSQL, and Angular.
-  - Features microservices architecture and advanced data management.
-
-- **Currently Working On**
-  - Enhancing my project with microservices and applying Liquibase for database version control.  
-  - Exploring advanced features in Spring Boot and Angular.
+- **Order Management System**  
+  - A microservice-based application built using Spring Boot, Maven, and PostgreSQL.  
+  - Manages orders, inventory, users, and notifications with scalability and modularity.  
+  - **Features**:
+    - API Gateway for centralized routing, security, and load balancing.
+    - Service discovery and registration with Eureka.
+    - User authentication and role-based access control using JWT.
+    - Real-time notifications via email.
+    - Detailed JasperReports integration for generating HTML reports.
+  - **Tools and Enhancements**:
+    - Integrated SonarQube and SonarLint for code quality analysis.
+    - Liquibase for database version control.
+    - Modular design for scalability and easy feature extension.
 
 <h3 align="left">Languages and Tools:</h3>
 
