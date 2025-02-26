@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aya Shabana</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Software Tester Transitioning to Development</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Software Developer Transitioned from Software Testing</h3>
 
 
 <h3 align="left">About me:</h3>
 - 🎓 Software Engineering Graduate (July 2023) <br>
-- 👨‍💻 Currently a Software Tester  <br>
+- 👨‍💻 Currently a Software Developer, previously a Test Engineer <br>
 - 🌱 Working in enhancing my skills in microservices, Spring Boot, and database management   <br>
 - 🏹 Archery enthusiast | 📚 Avid reader and continuous learner
 
